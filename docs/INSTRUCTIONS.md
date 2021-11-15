@@ -9,7 +9,7 @@ Deze leertaak hoort bij sprint The Campaign. Dit is een autonomous leertaak die 
 
 De OBA organiseert diverse activiteiten rondom kennis, cultuur en informatie. Via de activiteiten-agenda is er informatie te vinden en kan je een ticket verkrijgen.
 
-Maak voor de Activiteiten Hub van de OBA een campagne website ...
+De OBA bedient de hele stad en dus veel verschillende doelgroepen. Creeer een activiteitencampagnesite voor de doelgroep: nt2 en/of digibeet.
 
 ## Doel van deze opdracht
 
