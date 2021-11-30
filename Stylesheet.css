@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('../fonts/Avenir.eot?#iefix') format('embedded-opentype'),  url('../fonts/Avenir.woff') format('woff'), url('../fonts/Avenir.ttf')  format('truetype'), url('../fonts/Avenir.svg#Avenir') format('svg');
+  }
+  
+html {
+    font-family: 'Avenir', Helvetica, sans-serif;
+    background-color: #fafafa;
+  }
+
+body{
+    background-color: #fafafa;
+    text-align: center;
+}
+
+header{
+    background-color: #ff0000;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 20em;
+    height: 20em;
+    margin-bottom: 5px;
+    margin-right: 8px;
+}
+
+.center{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+button{
+    background-color: transparent;
+    width: 160px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid red;
+    color: red;
+}
